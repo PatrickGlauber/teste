@@ -107,6 +107,7 @@ int main(){
     remover(4);
     imprimir();
     remover(6);
+    remover(5);
     
 return 0;
     
