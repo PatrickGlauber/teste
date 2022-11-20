@@ -12,6 +12,7 @@ No * fim = NULL;
 int tam = 0;
 
 //ALTERACAO AQUI AAAAAEEEIIIOOOUUUU
+//MANJO MUITO DE GITHUB Ó PQP
 
 void adicionar(int valor, int pos){
     if(pos>= 0 && pos<= tam){
