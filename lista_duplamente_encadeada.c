@@ -11,6 +11,8 @@ No * inicio = NULL;
 No * fim = NULL;
 int tam = 0;
 
+//ALTERACAO AQUI AAAAAEEEIIIOOOUUUU
+
 void adicionar(int valor, int pos){
     if(pos>= 0 && pos<= tam){
         No * novo = malloc(sizeof(No));
